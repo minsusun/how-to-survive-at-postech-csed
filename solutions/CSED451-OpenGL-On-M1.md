@@ -8,6 +8,10 @@
 - But OpenGL is stil installed with XCode libraries
 - So we gonna use that
 
+##### Some references I read
+- https://blog.naver.com/jangej1031/221897646564
+- https://silverjun.notion.site/MacOS-OpenGL-Setting-Guide-4952565e5db1464b85047ee29b928814
+
 ### Brew
 
 (search on internet for installing brew on mac)
