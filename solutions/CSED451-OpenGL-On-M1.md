@@ -42,3 +42,6 @@ brew install glew glm freeglut
         - `/opt/homebrew/Cellar/freeglut/<your version>/lib`, recursive
 
 6. now go build
+
+### `freeglut (~): failed to open display ''` on Xcode
+remove all the frameworks and libraries and add them again
