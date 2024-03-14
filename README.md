@@ -9,6 +9,24 @@
 - `solutions/`: 학교 수업과 관련하여 삽질한 기록들
 ---
 
+### Global Leadership Program, GLP
+- GLP는 2학년 2학기, 3학년 1학기 모두 같이 신청할 수 있습니다.
+- "당연할 수도 있지만 저는 몰라서 3학년 1학기 신청 안해서 기회를 날렸습니다."
+
+---
+
+### RoadMap
+- 22 Spring: 16.5 grade
+- 22 Fall: 18.5 grade
+- 22 Winter: 4.0 grade
+- 23 Spring: 27.0 grade
+- 23 Summer: 6.0 grade
+- 23 Fall: 19.0 grade
+- 23 Winter: 6.0 grade
+- 24 Spring: 21.0 grade
+
+---
+
 ### 22 Fall
 
 #### 데이터구조
