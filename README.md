@@ -38,22 +38,25 @@ SES가 빠져서 아마 추가되면 146/137이 될거 같네요
 
 | When      | Credits       | Ref                              | Courses |
 |:---------:|:-------------:|:--------------------------------:|:--------|
+| 21        | 9.0*           | | |
 | 22 Spring | 16.5          |  | |
 | 22 Fall   | 18.5          | [ref](./reviews/01-22-Fall.md) | |
-| 22 Winter | 1.0 + 3.0*    |  | |
-| 23 Spring | 22.0 + 5.0*   | [ref](./reviews/02-23-Spring.md) | |
-| 23 Summer | 6.0* + 3.0*** |  | |
-| 23 Fall   | 19.0          | [ref](./reviews/03-23-Fall.md)   | |
-| 23 Winter | 6.0*          | [ref](./reviews/04-23-Winter.md)   | |
-| 24 Spring | 21.0          | [ref](./reviews/05-24-Spring.md)   | |
-| 24 Summer | 2.0**         |    |  |
-| 24 Fall   | 16.0          | [ref](./reviews/06-24-Fall.md)   | |
+| 22 Winter | 1.0 + 3.0**    |  | |
+| 23 Spring | 22.0 + 5.0**   | [ref](./reviews/03-23-Spring.md) | |
+| 23 Summer | 6.0** + 3.0**** |  | |
+| 23 Fall   | 19.0          | [ref](./reviews/05-23-Fall.md)   | |
+| 23 Winter | 6.0**          | [ref](./reviews/06-23-Winter.md)   | |
+| 24 Spring | 21.0          | [ref](./reviews/07-24-Spring.md)   | |
+| 24 Summer | 2.0***         |    |  |
+| 24 Fall   | 16.0          | [ref](./reviews/09-24-Fall.md)   | |
 
-<em>   * 학점 교류 </em>
+<em>    * AP 교과목 인정 </em>
 
-<em>  ** SES </em>
+<em>   ** 학점 교류 </em>
 
-<em> *** 개별 인턴 </em>
+<em>  *** SES </em>
+
+<em> **** 개별 인턴 </em>
 
 ---
 
