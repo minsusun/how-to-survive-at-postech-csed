@@ -35,15 +35,15 @@ SES가 빠져서 아마 추가되면 146/137이 될거 같네요
 |:---------:|:-------------:|:--------------------------------:|:--------|
 | 21        | 9.0*           | | |
 | 22 Spring | 16.5          |  | |
-| 22 Fall   | 18.5          | [ref](./reviews/01-22-Fall.md) | |
+| 22 Fall   | 18.5          | [ref](./reviews/01-22-Fall.md) | CSED233 |
 | 22 Winter | 1.0 + 3.0**    |  | |
-| 23 Spring | 22.0 + 5.0**   | [ref](./reviews/03-23-Spring.md) | |
+| 23 Spring | 22.0 + 5.0**   | [ref](./reviews/03-23-Spring.md) | CSED232, CSED261, CSED273, CSED311, CSED342, SNUM3502.015, SNUM3500.015 |
 | 23 Summer | 6.0** + 3.0**** |  | |
-| 23 Fall   | 19.0          | [ref](./reviews/05-23-Fall.md)   | |
+| 23 Fall   | 19.0          | [ref](./reviews/05-23-Fall.md)   | CSED211, CSED312, CSED332, CSED490C, CSED539 |
 | 23 Winter | 6.0**          | [ref](./reviews/06-23-Winter.md)   | |
-| 24 Spring | 21.0          | [ref](./reviews/07-24-Spring.md)   | |
+| 24 Spring | 21.0          | [ref](./reviews/07-24-Spring.md)   | CSED311, CSED353, CSED451, CSED499I |
 | 24 Summer | 2.0***         |    |  |
-| 24 Fall   | 16.0          | [ref](./reviews/09-24-Fall.md)   | |
+| 24 Fall   | 16.0          | [ref](./reviews/09-24-Fall.md)   | CSED341, CSED499II, CSED538, CSED551 |
 
 <em>    * AP 교과목 인정 </em>
 
