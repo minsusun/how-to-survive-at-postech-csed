@@ -45,13 +45,7 @@ SES가 빠져서 아마 추가되면 146/137이 될거 같네요
 | 24 Summer | 2.0***         |    |  |
 | 24 Fall   | 16.0          | [ref](./reviews/06-24-Fall.md)   | CSED341, CSED499II, CSED538, CSED551 |
 
-<em>    * AP 교과목 인정 </em>
-
-<em>   ** 학점 교류 </em>
-
-<em>  *** SES </em>
-
-<em> **** 개별 인턴 </em>
+<em> * AP 교과목 인정, ** 학점 교류, *** SES, **** 개별 인턴 </em>
 
 ---
 
